@@ -1,0 +1,5 @@
+criação de um servidor SOAP usando java:
+https://www.devmedia.com.br/desenvolvendo-e-usando-web-services-em-java/37261
+
+aqui um passo a passo:
+https://www.theserverside.com/video/Step-by-step-SOAP-web-services-example-in-Java-using-Eclipse
